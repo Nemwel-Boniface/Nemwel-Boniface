@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Nemwel Boniface
 
+A tech enthusiast with passion for programming and Front End web design.
 <!--
 **Nemwel-Boniface/Nemwel-Boniface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
