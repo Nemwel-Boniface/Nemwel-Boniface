@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on any exciting project
 - 🤔 I’m looking for help with advanced JavaScript concepts
-- 📫 You can reach me at ![@nemwel](https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/)
+- 📫 You can reach me at [@nemwel](https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/)
 - 💬 Ask me about anything web development and martial arts
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I fancy the Lingala language.
