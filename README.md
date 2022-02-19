@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 - 📫 You can reach me at ![@nemwel](https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/)
 - 💬 Ask me about anything web development and martial arts
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I fancy the Lingala language.### Languages.
+- ⚡ Fun fact: I fancy the Lingala language.
+### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
 ### Front End Development
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
