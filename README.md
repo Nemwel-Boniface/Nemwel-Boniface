@@ -1,4 +1,8 @@
 ### Hi there 👋 I'm Nemwel
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Nemwel-Boniface/count.svg" />
+</p>
 
 A tech enthusiast with passion for programming and Front End web development.
 <!--
